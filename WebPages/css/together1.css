@@ -1,0 +1,42 @@
+h2{
+	font-size: 150%;
+	color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(45, 2, 244, 0.5);
+	font-family: "Arial Black";
+}
+
+section{
+	text-align: center;
+	color: rgb(100, 0, 255);
+}
+
+Details{
+	font-style: italic;
+}
+
+Summary{
+	font-style: normal;
+}
+div{
+	background-color: skyblue;
+	heigth: 30%;
+	display: table-cell;
+	
+
+
+}
+
+
+
+span{
+	width: 30%;
+	display: block;
+
+}
+
+label{
+	display: inline-block;
+}
+progress{
+	display: inline-block;
+}
