@@ -48,16 +48,16 @@ img{
 }
 section{
 	float: left;
-	display: inline-block;
 }
 .right{
-	
+	display: inline;
 	width: 73%;
 	padding: 10px;
 }
 
 
 .left{
+	display: inline-block;
 	width: 25%;
 	background-color: rgb(70, 42, 22);
 	
